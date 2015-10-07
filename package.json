@@ -1,0 +1,22 @@
+{
+  "name": "javascript-fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz implemented with JS",
+  "main": "FizzBuzz.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnmnd/jsFizzBuzz.git"
+  },
+  "author": "Garrett Sand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vnmnd/jsFizzBuzz/issues"
+  },
+  "homepage": "https://github.com/vnmnd/jsFizzBuzz#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
